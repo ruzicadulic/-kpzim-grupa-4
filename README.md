@@ -1,7 +1,7 @@
 # -kpzim-grupa-4
 INTERAKTIVNA ILUSTRACIJA, grupa 4, Emili Jamnić, Ema Novosel, Ružica Dulić, Kreativno programiranje za interaktivne medije 2026/2027
 
-# [Naziv projekta]
+# [INTERAKTIVNA ILUSTRACIJA Božićna čestitka]
 
 **Grupa:** [4] · **Članovi:** [Emili Jamnić, Ema Novosel, Ružica Dulić]  
 **Kolegij:** Kreativno programiranje za interaktivne medije · **Akademska godina:** 2026/2027
