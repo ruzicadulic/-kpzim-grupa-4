@@ -3,13 +3,13 @@ INTERAKTIVNA ILUSTRACIJA, grupa 4, Emili Jamnić, Ema Novosel, Ružica Dulić, K
 
 # [INTERAKTIVNA ILUSTRACIJA Božićna čestitka]
 
-**Grupa:** [4] · **Članovi:** [Emili Jamnić, Ema Novosel, Ružica Dulić]  
+**Grupa:** 4 · **Članovi:** Emili Jamnić, Ema Novosel, Ružica Dulić  
 **Kolegij:** Kreativno programiranje za interaktivne medije · **Akademska godina:** 2026/2027
 
 ![Snimka ili GIF rada](dokumentacija/pregled.gif)
 
 ## Ukratko
-[Jedna ili dvije rečenice: što je rad i što gledatelj/korisnik doživljava.]
+Božićna čestitka koja izgleda kao bojanka, i interakcijom miša po označenoj površini korisnik će imati priliku sam obojiti čestitku
 
 ## Kako pokrenuti
 1. Instalirajte Thonny i biblioteku py5 (upute kolegija *Radno okruženje*).
@@ -21,7 +21,7 @@ Sve potrebne datoteke nalaze se u mapi `data/`. Rad ne treba internet.
 ## Upute za korištenje
 | Radnja | Učinak |
 |---|---|
-| [pomak miša] | [...] |
+| [pomak miša] | bojenje označene površine |
 | [klik] | [...] |
 | [tipka x] | [...] |
 
@@ -36,9 +36,9 @@ Sve potrebne datoteke nalaze se u mapi `data/`. Rad ne treba internet.
 ## Podjela rada
 | Član/ica | Zaduženja |
 |---|---|
-| Emili Jamnić | [...] |
-| Ema Novosel | [...] |
-| Ružica Dulić | [...] |
+| Emili Jamnić | crtanje oblika i ilustracija |
+| Ema Novosel | događaji miša |
+| Ružica Dulić | prozor platno i boje |
 
 ## Izvori, licence i atribucija
 - **Fontovi:** [naziv], [licenca, npr. SIL OFL], [poveznica]
@@ -46,7 +46,7 @@ Sve potrebne datoteke nalaze se u mapi `data/`. Rad ne treba internet.
 - **Tuđi kod ili tutorijali:** [izvor], [što je preuzeto ili prilagođeno]
 
 ## Korištenje AI alata
-[Je li korišten AI i u koju svrhu (npr. objašnjenje greške, prijedlog strukture) te što je vaš samostalni rad. Ako AI nije korišten, napišite to.]
+za sad nije korišten AI
 
 ## Licenca ovog rada
-[npr. kod: MIT, vizuali: CC BY 4.0, ili „sva prava pridržana"]
+svi materijali su za sad originalni
