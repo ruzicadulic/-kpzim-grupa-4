@@ -36,10 +36,9 @@ Sve potrebne datoteke nalaze se u mapi `data/`. Rad ne treba internet.
 ## Podjela rada
 | Član/ica | Zaduženja |
 |---|---|
-| [ime] | [...] |
-| [ime] | [...] |
-| [ime] | [...] |
-| [ime] | [...] |
+| Emili Jamnić | [...] |
+| Ema Novosel | [...] |
+| Ružica Dulić | [...] |
 
 ## Izvori, licence i atribucija
 - **Fontovi:** [naziv], [licenca, npr. SIL OFL], [poveznica]
